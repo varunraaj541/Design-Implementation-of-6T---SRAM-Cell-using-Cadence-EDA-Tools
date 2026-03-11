@@ -46,27 +46,24 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
 
 #### 1. Schematic of 6T SRAM Cell:
 
-  ![ckt](https://github.com/user-attachments/assets/96483c38-51d9-436c-9a02-893da3f22574)
-
+   ![image](https://github.com/user-attachments/assets/2273733f-5e94-415a-9971-793c64816a0d)
 
 
    ![image](https://github.com/user-attachments/assets/c28aea2b-9e73-48e6-abdb-11c430321b86)
 
 
 ## Output
-#### 1. Transient Analysis Setup:
+#### 1. Transient Analysis Output:
 
-   ![tran1](https://github.com/user-attachments/assets/2312bc95-6172-4769-9530-4af58a906c18)
-
-   ![output plotting](https://github.com/user-attachments/assets/31c045d0-7adb-485d-ade8-d91d7e40b74e)
+   <img width="1045" height="762" alt="image" src="https://github.com/user-attachments/assets/8e2f5502-9495-4382-b5ab-6c3ac5e2dea9" />
 
 
-#### 2.Output
-   ![pulse output](https://github.com/user-attachments/assets/639b1424-c3b2-43e3-a742-53f4be536a17)
-
+   <img width="1862" height="843" alt="image" src="https://github.com/user-attachments/assets/58d7b0c8-a005-4a8a-b9a8-3894eb2c7bfb" />
 
 
 ## Results:
 1. Successfully designed the 6T SRAM cell schematic using Cadence EDA tools.
 2. Performed transient analysis, verifying the read and write operations of the SRAM cell.
 3. Observed correct switching behavior in response to control signals.
+
+
